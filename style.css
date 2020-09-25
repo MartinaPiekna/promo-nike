@@ -129,3 +129,6 @@ hr {
   text-transform: uppercase;
   letter-spacing: 1px;
 }
+.tlacitko:hover {
+  background-color: #d4583f;
+}
